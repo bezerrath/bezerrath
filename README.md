@@ -6,7 +6,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="svelte" **alt="svelte" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" **alt="laravel" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-plain.svg" title="laravel" **alt="laravel" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" **alt="symfony" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="elixir" **alt="elixir" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="phoenix" **alt="phoenix" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" **alt="solidity" width="40" height="40"/>
