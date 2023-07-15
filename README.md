@@ -12,8 +12,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 </div>
 
-### Private account stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bezerra-ilia&theme=dark&background=000000)](https://github.com/bezerra-ilia)
-
-### Personal account stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bezerrath&theme=dark&background=000000)](https://github.com/bezerrath)
