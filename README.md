@@ -13,6 +13,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="zig" **alt="zig" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title="dotnetcore" **alt="postgresql" width="40" height="40"/>
 </div>
 
 <br />
