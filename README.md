@@ -14,8 +14,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title="dotnetcore" **alt="postgresql" width="40" height="40"/>
 </div>
-
-<br />
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bezerrath&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
